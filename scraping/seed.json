@@ -1,0 +1,488 @@
+[
+        {
+            "ÜRÜN ADI": "içim rahat 1lt süt",
+            "ig_url": "https://www.istegelsin.com/urun/icim-rahat-laktozsuz-sut-1-lt_LCT5-AD",
+            "mg_url": "https://www.migros.com.tr/icim-rahat-laktozsuz-sut-1-l-p-a80012",
+            "cf_url": "https://www.carrefoursa.com/icim-laktozsuz-sut-1000-ml-p-30063979"
+        },
+        {
+            "ÜRÜN ADI": "içim labne 400gr",
+            "ig_url": "https://www.istegelsin.com/urun/icim-labne-400-gr_LCT27-AD",
+            "mg_url": "https://www.migros.com.tr/icim-labne-peynir-400-g-p-9d3242",
+            "cf_url": "https://www.carrefoursa.com/icim-labne-400-gr-p-30113650"
+        },
+        {
+            "ÜRÜN ADI": "içim kaymaksız yoğurt 1kg",
+            "ig_url": "https://www.istegelsin.com/urun/icim-tam-yagli-yogurt-kaymaksiz-1-kg_SMZ1399-AD",
+            "mg_url": "https://www.migros.com.tr/icim-tam-yagli-kaymaksiz-yogurt-1000-g-p-bee236",
+            "cf_url": "https://www.carrefoursa.com/icim-kaymaksiz-yogurt-1000-gr-p-30077296"
+        },
+        {
+            "ÜRÜN ADI": "superfresh patates 1kg",
+            "ig_url": "https://www.istegelsin.com/urun/superfresh-patates-1-kg_PAM400-AD",
+            "mg_url": "https://www.migros.com.tr/superfresh-patates-1-kg-p-1039160",
+            "cf_url": "https://www.carrefoursa.com/superfresh-patates-1000-gr-p-30082568"
+        },
+        {
+            "ÜRÜN ADI": "pembe domates 1kg",
+            "ig_url": "https://www.istegelsin.com/urun/pembe-domates-1-kg_MS328-AD",
+            "mg_url": "https://www.migros.com.tr/domates-pembe-kg-p-1ac9aca",
+            "cf_url": "https://www.carrefoursa.com/pembe-domates-kg-p-30126614"
+        },
+        {
+            "ÜRÜN ADI": "tat domates salçası 710gr",
+            "ig_url": "https://www.istegelsin.com/urun/tat-domates-salcasi-710-gr-cam_DZY3-AD",
+            "mg_url": "https://www.migros.com.tr/tat-domates-salcasi-cam-710-g-p-897b64",
+            "cf_url": "https://www.carrefoursa.com/tat-domates-salcasi-710-g-p-30050066"
+        },
+        {
+            "ÜRÜN ADI": "filiz burgu makarna 500gr",
+            "ig_url": "https://www.istegelsin.com/urun/filiz-burgu-makarna-500-gr_BRL48-AD",
+            "mg_url": "https://www.migros.com.tr/filiz-burgu-makarna-500-g-p-4cc1d0",
+            "cf_url": "https://www.carrefoursa.com/filiz-burgu-makarna-500-g-p-30097165"
+        },
+        {
+            "ÜRÜN ADI": "yudum ayçiçek yağı 1lt",
+            "ig_url": "https://www.istegelsin.com/urun/yudum-aycicek-1-l_SVL1-AD",
+            "mg_url": "https://www.migros.com.tr/yudum-aycicek-yagi-1-l-p-3eb841",
+            "cf_url": "https://www.carrefoursa.com/yudum-aycicek-yagi-1-litre-p-30040683"
+        },
+        {
+            "ÜRÜN ADI": "fairy bulaşık deterjanı 2.6lt",
+            "ig_url": "https://www.istegelsin.com/urun/fairy-bulasik-sivi-bulasik-deterjani-2600-ml_SMZ1458-AD",
+            "mg_url": "https://www.migros.com.tr/fairy-sivi-bulasik-deterjani-limon-kokulu-super-ekonomik-paket-26-l-p-1d338a3",
+            "cf_url": "https://www.carrefoursa.com/fairy-2600-ml-sivi-bulasik-deterjani-limon-p-30358394"
+        },
+        {
+            "ÜRÜN ADI": "omo renkliler 1.5kg",
+            "ig_url": "https://www.istegelsin.com/urun/omo-active-fresh-15-kg-renkliler_UNI128-AD",
+            "mg_url": "https://www.migros.com.tr/omo-active-fresh-renkliler-toz-deterjan-10-yikama-15-kg-p-1cbbd25",
+            "cf_url": "https://www.carrefoursa.com/omo-active-fresh-toz-camasir-deterjani-renkliler-1-5-kg-10-yikama-p-30054688"
+        },
+        {
+            "ÜRÜN ADI": "perwoll beyaz 3lt",
+            "ig_url": "https://www.istegelsin.com/urun/perwoll-3-l-beyazdoku-bakim-deterjani_PAM479-AD",
+            "mg_url": "https://www.migros.com.tr/perwoll-gelistirilmis-beyaz-2970-ml-54-yikama-p-1d1d9db",
+            "cf_url": "https://www.carrefoursa.com/perwoll-gelistirilmis-beyaz-sivi-camasir-detarjani-2970-ml-p-30425180"
+        },
+        {
+            "ÜRÜN ADI": "finish ultimate plus 40'lı",
+            "ig_url": "https://www.istegelsin.com/urun/finish-ultimate-plus-40li-kapsul-bulasik-deterjani_BEN91-AD",
+            "mg_url": "https://www.migros.com.tr/finish-ultimate-plus-hepsi-1-arada-40-tablet-488g-p-1d8b9ea",
+            "cf_url": "https://www.carrefoursa.com/finish-quantum-ultimate-plus-40-kapsul-bulasik-makinesi-deterjani-tableti-p-30416371"
+        },
+        {
+            "ÜRÜN ADI": "eti karam gurme 50gr",
+            "ig_url": "https://www.istegelsin.com/urun/eti-karam-gurme-bitter-cikolatali-gofret-50-g_ETI125-AD",
+            "mg_url": "https://www.migros.com.tr/arama?q=karam%20gurme",
+            "cf_url": "https://www.carrefoursa.com/eti-karam-gofret-bitter-50-g-p-30043338"
+        },
+        {
+            "ÜRÜN ADI": "harıbo mega roulette 45gr",
+            "ig_url": "https://www.istegelsin.com/urun/haribo-mega-roulette-45-gr_SMZ1012-AD",
+            "mg_url": "https://www.migros.com.tr/haribo-mega-roulette-meyve-aromali-yumusak-sekerleme-45g-p-6c8098",
+            "cf_url": "https://www.carrefoursa.com/haribo-mega-roulette-45-gr-p-30284820"
+        },
+        {
+            "ÜRÜN ADI": "lays klasik 107gr",
+            "ig_url": "https://www.istegelsin.com/urun/lays-klasik-cipsi-super-boy-107-gr_FRT14-AD",
+            "mg_url": "https://www.migros.com.tr/lays-klasik-patates-cipsi-super-boy-107-gr-p-4d8bae",
+            "cf_url": "https://www.carrefoursa.com/lay-s-klasik-sade-patates-cipsi-super-boy-107-gr-p-30031221"
+        },
+        {
+            "ÜRÜN ADI": "doritos taco 218gr",
+            "ig_url": "https://www.istegelsin.com/urun/doritos-taco-mega-boy-218-gr_FRT28-AD",
+            "mg_url": "https://www.migros.com.tr/doritos-taco-misir-cipsi-mega-boy-218-gr-p-4d8876",
+            "cf_url": "https://www.carrefoursa.com/doritos-taco-baharat-cesnili-misir-cipsi-mega-boy-218-g-p-30049121"
+        },
+        {
+            "ÜRÜN ADI": "pepsi 1lt",
+            "ig_url": "https://www.istegelsin.com/urun/pepsi-cola-1-l_BTT4719-AD",
+            "mg_url": "https://www.migros.com.tr/pepsi-cola-1-l-p-7a3c30",
+            "cf_url": "https://www.carrefoursa.com/pepsi-cola-pet-1-lt-p-30096964"
+        },
+        {
+            "ÜRÜN ADI": "dr.oetker pasta kreması 136gr",
+            "ig_url": "https://www.istegelsin.com/urun/dr-oetker-vanilinli-pasta-kremasi-136-gr_DRO48-AD",
+            "mg_url": "https://www.migros.com.tr/droetker-pasta-kremasi-vanilyali-136-g-p-4cebd8",
+            "cf_url": "https://www.carrefoursa.com/dr-oetker-pasta-kremasi-vanilyali-136-g-p-30096901"
+        },
+        {
+            "ÜRÜN ADI": "ındomie spesiyal 75gr",
+            "ig_url": "https://www.istegelsin.com/urun/indomie-spesiyal-noodle-75-g_ADK3-AD",
+            "mg_url": "https://www.migros.com.tr/indomie-special-noodle-75-g-p-4ce5da",
+            "cf_url": "https://www.carrefoursa.com/indo-mie-spesiyel-tavuk-parcali-paket-noodle-75-gr-p-30063803"
+        },
+        {
+            "ÜRÜN ADI": "cappy pulpy portakal  330ml",
+            "ig_url": "https://www.istegelsin.com/urun/cappy-pulpy-portakal-330-ml_SMZ1318-AD",
+            "mg_url": "https://www.migros.com.tr/cappy-pulpy-portakalli-icecek-pet-330-ml-p-7ae757",
+            "cf_url": "https://www.carrefoursa.com/cappy-pulpy-portakalli-icecek-pet-330-ml-p-30006196"
+        },
+        {
+            "ÜRÜN ADI": "çaykur rize çay 1kg",
+            "ig_url": "https://www.istegelsin.com/urun/caykur-rize-turist-cay-1-kg_CAY13-AD",
+            "mg_url": "https://www.migros.com.tr/caykur-rize-turist-cay-1000-g-p-2f7987",
+            "cf_url": "https://www.carrefoursa.com/caykur-rize-turist-cay-1000-gr-p-30037044"
+        },
+        {
+            "ÜRÜN ADI": "fanta portakal 1.5kg",
+            "ig_url": "https://www.istegelsin.com/urun/fanta-portakal-15-l_CCA2-AD",
+            "mg_url": "https://www.migros.com.tr/fanta-portakal-aromali-pet-15-l-p-7a6822",
+            "cf_url": "https://www.carrefoursa.com/fanta-portakal-1-5-lt-p-30092310"
+        },
+        {
+            "ÜRÜN ADI": "schweppes mandalina 1lt",
+            "ig_url": "https://www.istegelsin.com/urun/schweppes-mandalina-aromali-gazli-icecek-1-l_CCA11-AD",
+            "mg_url": "https://www.migros.com.tr/schweppes-mandalina-pet-1-l-p-7a6ab6",
+            "cf_url": "https://www.carrefoursa.com/schweppes-mandalina-aromali-gazli-icecek-pet-1-litre-p-30017598"
+        },
+        {
+            "ÜRÜN ADI": "çizi sade 70gr",
+            "ig_url": "https://www.istegelsin.com/urun/ulker-cizi-kraker-sade-70-gr_PAM289-AD",
+            "mg_url": "https://www.migros.com.tr/ulker-cizi-peynirlikraker70g-p-6b127a",
+            "cf_url": "https://www.carrefoursa.com/ulker-cizi-kraker-70-gr-p-30284827"
+        },
+        {
+            "ÜRÜN ADI": "luppo sandviç kek kakaolu 184gr",
+            "ig_url": "https://www.istegelsin.com/urun/luppo-sandvic-kek-kakaolu-184-gr_SLN11-AD",
+            "mg_url": "https://www.migros.com.tr/luppo-sandvic-kek-kakaolu-8li-paket-184-g-p-6b05a5",
+            "cf_url": "https://www.carrefoursa.com/solen-luppo-sandvic-kakaolu-kek-184-gr-p-30020928"
+        },
+        {
+            "ÜRÜN ADI": "duru pilavlık bulgur 1kg",
+            "ig_url": "https://www.istegelsin.com/urun/duru-iri-bulgur-1-kg_DRU4-AD",
+            "mg_url": "https://www.migros.com.tr/duru-pilavlik-bulgur-1-kg-p-106755",
+            "cf_url": "https://www.carrefoursa.com/duru-pilavlik-bulgur-1-kg-p-30266598?_sgm_campaign=scn_9b0bc566ca000&_sgm_source=30266598&_sgm_action=click"
+        },
+        {
+            "ÜRÜN ADI": "saka su 5lt",
+            "ig_url": "https://www.istegelsin.com/urun/saka-dogal-mineralli-su-5-l_DYD2-AD",
+            "mg_url": "https://www.migros.com.tr/saka-dogal-mineralli-su-5-l-p-7b081d",
+            "cf_url": "https://www.carrefoursa.com/saka-su-5-lt-p-30040891?_sgm_campaign=scn_9b0bc566ca000&_sgm_source=30040891&_sgm_action=click"
+        },
+        {
+            "ÜRÜN ADI": "nescafe gold kavanoz 100gr",
+            "ig_url": "https://www.istegelsin.com/urun/nescafe-gold-kavanoz-kahve-100-gr_NST11-AD",
+            "mg_url": "https://www.migros.com.tr/nescaf-gold-cozunebilir-kahve-100-gr-kavanoz-p-314e45",
+            "cf_url": "https://www.carrefoursa.com/nescafe-gold-100-gr-cam-kavanoz-p-30099175"
+        },
+        {
+            "ÜRÜN ADI": "bağdat pul biber 80gr",
+            "ig_url": "https://www.istegelsin.com/urun/bagdat-pul-biber-80-gr_BGD16-AD",
+            "mg_url": "https://www.migros.com.tr/bagdat-pul-biber-80-g-p-5bb944",
+            "cf_url": "https://www.carrefoursa.com/bagdat-pul-biber-80-g-p-30065499"
+        },
+        {
+            "ÜRÜN ADI": "bağdat kekik 25gr",
+            "ig_url": "https://www.istegelsin.com/urun/bagdat-kekik-25-gr_BGD10-AD",
+            "mg_url": "https://www.migros.com.tr/bagdat-kekik-25-g-p-5bb950",
+            "cf_url": "https://www.carrefoursa.com/bagdat-kekik-25-gr-p-30065471"
+        },
+        {
+            "ÜRÜN ADI": "arko men cool tıraş kremi 90gr",
+            "ig_url": "https://www.istegelsin.com/urun/arko-men-cool-tiras-kremi-90-gr_SMZ1080-AD",
+            "mg_url": "https://www.migros.com.tr/arko-men-tiras-kremi-cool-90g-p-20861de",
+            "cf_url": "https://www.carrefoursa.com/arko-men-cool-tiras-kremi-90-g-p-30395579"
+        },
+        {
+            "ÜRÜN ADI": "axe apollo deodorant",
+            "ig_url": "https://www.istegelsin.com/urun/axe-apollo-deodorant-150-ml_UNI23-AD",
+            "mg_url": "https://www.migros.com.tr/axe-apollo-erkek-sprey-deodorant-150-ml-p-216a373",
+            "cf_url": "https://www.carrefoursa.com/axe-erkek-deodorant-bodyspray-apollo-48-saat-etkileyici-koku-150-ml-p-30040056"
+        },
+        {
+            "ÜRÜN ADI": "reis nohut 1kg",
+            "ig_url": "https://www.istegelsin.com/urun/reis-kocbasi-nohut-1-kg_RIS25-AD",
+            "mg_url": "https://www.migros.com.tr/reis-kocbasi-nohut-1-kg-p-100581",
+            "cf_url": "https://www.carrefoursa.com/reis-nohut-1000-gr-p-30097588"
+        },
+        {
+            "ÜRÜN ADI": "magnum classic",
+            "ig_url": "https://www.istegelsin.com/urun/magnum-classic-100-ml_ALG40-AD",
+            "mg_url": "https://www.migros.com.tr/magnum-classic-100-ml-p-b0a220",
+            "cf_url": "https://www.carrefoursa.com/magnum-classic-100-ml-p-30096967"
+        },
+        {
+            "ÜRÜN ADI": "magnum mini classic 6'lı",
+            "ig_url": "https://www.istegelsin.com/urun/magnum-mini-classic-6li_ALG49-AD",
+            "mg_url": "https://www.migros.com.tr/magnum-mini-classic-345-ml-6li-p-b0ad50",
+            "cf_url": "https://www.carrefoursa.com/magnum-mini-classic-6-li-p-30055016"
+        },
+        {
+            "ÜRÜN ADI": "balparmak çiçek balı 600gr",
+            "ig_url": "https://www.istegelsin.com/urun/balparmak-citkapak-yayla-cicek-bali-600-g_BLP14-AD",
+            "mg_url": "https://www.migros.com.tr/balparmak-cit-kapak-yayla-cicek-bali-600-g-p-6c00bb",
+            "cf_url": "https://www.carrefoursa.com/balparmak-citkapak-yayla-cicek-bali-600-gr-p-30089274?_sgm_campaign=scn_9b0bc566ca000&_sgm_source=30089274&_sgm_action=click"
+        },
+        {
+            "ÜRÜN ADI": "eti lifalif yulaf ezmesi",
+            "ig_url": "https://www.istegelsin.com/urun/eti-lifalif-yulaf-ezmesi-500-g_ETI136-AD",
+            "mg_url": "https://www.migros.com.tr/eti-lifalif-yulaf-ezmesi-500-g-p-4db752",
+            "cf_url": "https://www.carrefoursa.com/eti-lifalif-yulaf-ezmesi-500-gr-p-30023663"
+        },
+        {
+            "ÜRÜN ADI": "la vache guirit krem peynir 140gr",
+            "ig_url": "https://www.istegelsin.com/urun/-la-vache-qui-rit-krem-peynir-140-gr_BEL5-AD",
+            "mg_url": "https://www.migros.com.tr/la-vache-qui-rit-sade-krem-peynir-140g-p-9d3276",
+            "cf_url": "https://www.carrefoursa.com/la-vache-qui-rit-krem-peynir-140g-p-30011440"
+        },
+        {
+            "ÜRÜN ADI": "bahçıvan çeçil peynir 200gr",
+            "ig_url": "https://www.istegelsin.com/urun/bahcivan-cecil-peyniri-200-gr_BHC7-AD",
+            "mg_url": "https://www.migros.com.tr/bahcivan-cecil-peyniri-200-g-p-9ecb9f",
+            "cf_url": "https://www.carrefoursa.com/bahcivan-cecil-peyniri-200-gr-p-30076505"
+        },
+        {
+            "ÜRÜN ADI": "fora dilimli yeşil zeytin 160gr",
+            "ig_url": "https://www.istegelsin.com/urun/fora-dilimli-yesil-zeytin-kavanoz-160-gr_FRA12-AD",
+            "mg_url": "https://www.migros.com.tr/fora-dilimli-yesil-zeytin-160-g-p-f476ab",
+            "cf_url": "https://www.carrefoursa.com/fora-dilimli-yesil-zeytin-160-g-p-30079672"
+        },
+        {
+            "ÜRÜN ADI": "superfresh kayseri mantısı 400gr",
+            "ig_url": "https://www.istegelsin.com/urun/superfresh-manti-400-g_PAM387-AD",
+            "mg_url": "https://www.migros.com.tr/superfresh-manti-400-g-p-10be1e5",
+            "cf_url": "https://www.carrefoursa.com/superfresh-kayseri-mantisi-400-gr-p-30083041"
+        },
+        {
+            "ÜRÜN ADI": "dardanel zeytinyağlı ton balığı 3x75 gr",
+            "ig_url": "https://www.istegelsin.com/urun/superfresh-zeytinyagli-ton-baligi-3x75-gr_PAM370-AD",
+            "mg_url": "https://www.migros.com.tr/superfresh-zeytinyagli-ton-baligi-3x75-g-p-89b309",
+            "cf_url": "https://www.carrefoursa.com/dardanel-zeytinyagli-ton-baligi-3x75g-p-30097828"
+        },
+        {
+            "ÜRÜN ADI": "dr.oetker krem şanti 300gr",
+            "ig_url": "https://www.istegelsin.com/urun/dr-oetker-ekonomik-krem-santi-300-gr_DRO44-AD",
+            "mg_url": "https://www.migros.com.tr/droetker-ekonomik-krem-santi-300-g-p-b04587",
+            "cf_url": "https://www.carrefoursa.com/dr-oetker-ekonomik-krem-santi-300-gr-p-30095675"
+        },
+        {
+            "ÜRÜN ADI": "pril sıvı deterjan 4kg",
+            "ig_url": "https://www.istegelsin.com/urun/pril-klasik-limon-4-kg_SMZ6945-AD",
+            "mg_url": "https://www.migros.com.tr/pril-sivi-bulasik-deterjani-4kg-limon-p-1d33868",
+            "cf_url": "https://www.carrefoursa.com/pril-sivi-elde-bulasik-yikama-deterjani-limon-kokulu-4-kg-p-30022839"
+        },
+        {
+            "ÜRÜN ADI": "vernel yumuşatıcı 3l",
+            "ig_url": "https://www.istegelsin.com/urun/vernel-3-l-30-yikama-gulun-buyusu-camasir-yumusaticisi_PAM759-AD",
+            "mg_url": "https://www.migros.com.tr/vernel-camasir-yumusaticisi-3l-30-yikama-gulun-buyusu-p-1d2b270",
+            "cf_url": "https://www.carrefoursa.com/vernel-sivi-camasir-yumusaticisi-gulun-buyusu-3l-p-30052282"
+        },
+        {
+            "ÜRÜN ADI": "domestos çamaşır suyu 750ml",
+            "ig_url": "https://www.istegelsin.com/urun/domestos-750-ml-dag-esintisi-camasir-suyu_UNI98-AD",
+            "mg_url": "https://www.migros.com.tr/domestos-camasir-suyu-dag-esintisi-750-ml-p-1d25103",
+            "cf_url": "https://www.carrefoursa.com/domestos-yogun-kivamli-camasir-suyu-dag-esintisi-maksimum-hijyen-750-ml-p-30026681"
+        },
+        {
+            "ÜRÜN ADI": "knorr tavuk bulyon 120gr",
+            "ig_url": "https://www.istegelsin.com/urun/knorr-tavuk-bulyon-120-gr_UNG29-AD",
+            "mg_url": "https://www.migros.com.tr/knorr-tavuk-suyu-bulyon-12-adet-120-g-p-5c55f5",
+            "cf_url": "https://www.carrefoursa.com/knorr-tavuk-suyu-tablet-bulyon-120-g-p-30015488"
+        },
+        {
+            "ÜRÜN ADI": "knorr et bulyon 120gr",
+            "ig_url": "https://www.istegelsin.com/urun/knorr-et-bulyon-120-gr_UNG30-AD",
+            "mg_url": "https://www.migros.com.tr/knorr-et-suyu-bulyon-12-adet-120-g-p-5c55f4",
+            "cf_url": "https://www.carrefoursa.com/knorr-et-suyu-tablet-bulyon-120-g-p-30015485"
+        },
+        {
+            "ÜRÜN ADI": "activia çilekli yoğurt 4x110gr",
+            "ig_url": "https://www.istegelsin.com/urun/activia-cilekli-yogurt-4x110gr_DNN18-AD",
+            "mg_url": "https://www.migros.com.tr/activia-dogal-probiyotik-cilekli-yogurt-4x100-g-p-bee1bc",
+            "cf_url": "https://www.carrefoursa.com/activia-dogal-probiyotikli-cilekli-yogurt-4x100-g-p-30096430"
+        },
+        {
+            "ÜRÜN ADI": "içim fit proteinli kakaoulu süt 500ml",
+            "ig_url": "https://www.istegelsin.com/urun/icim-fit-proteinli-laktozsuz-kakaolu-sut-500-ml_LCT19-AD",
+            "mg_url": "https://www.migros.com.tr/icim-fit-protein-sut-cikolata-500-ml-p-a8073f",
+            "cf_url": "https://www.carrefoursa.com/icim-fit-cikolata-500-ml-p-30177661"
+        },
+        {
+            "ÜRÜN ADI": "knorr hazır çorba kremalı tavuk 65gr",
+            "ig_url": "https://www.istegelsin.com/urun/knorr-kremali-tavuk-corbasi-65-gr_UNG57-AD",
+            "mg_url": "https://www.migros.com.tr/knorr-hazir-corba-kremali-tavuk-65-g-p-4c99c6",
+            "cf_url": "https://www.carrefoursa.com/knorr-hazir-corba-kremali-tavuk-65-gr-p-30098710"
+        },
+        {
+            "ÜRÜN ADI": "knorr kremalı domates çorbası 69gr",
+            "ig_url": "https://www.istegelsin.com/urun/knorr-kremali-domates-corbasi-69-gr_UNG55-AD",
+            "mg_url": "https://www.migros.com.tr/knorr-hazir-corba-kremali-domates-4-kisilik-69-g-p-4cae5a",
+            "cf_url": "https://www.carrefoursa.com/knorr-kremali-domates-corbasi-69-g-p-30097931"
+        },
+        {
+            "ÜRÜN ADI": "reis osmancık pirinç 2.5kg",
+            "ig_url": "https://www.istegelsin.com/urun/reis-osmancik-pirinc-25-kg_RIS38-AD",
+            "mg_url": "https://www.migros.com.tr/reis-osmancik-pirinc-25-kg-p-f69b6",
+            "cf_url": "https://www.carrefoursa.com/reis-osmancik-pirinc-2-5-kg-p-30057624"
+        },
+        {
+            "ÜRÜN ADI": "tat hardal 230gr",
+            "ig_url": "https://www.istegelsin.com/urun/tat-hardal-230-gr_SMZ1325-AD",
+            "mg_url": "https://www.migros.com.tr/tat-hardal-230-g-p-fbc658",
+            "cf_url": "https://www.carrefoursa.com/tat-hardal-230-g-p-30019538"
+        },
+        {
+            "ÜRÜN ADI": "hero baby karışık meyve 125gr",
+            "ig_url": "https://www.istegelsin.com/urun/hero-baby-karisik-meyve-kavanoz-mama125-gr_PAM105-AD",
+            "mg_url": "https://www.migros.com.tr/hero-baby-karisik-meyve-125-g-p-4d01aa",
+            "cf_url": "https://www.carrefoursa.com/hero-baby-karisik-meyveli-p-30088171"
+        },
+        {
+            "ÜRÜN ADI": "sleepy zeytinyağlı ıslak havlu 90'lı",
+            "ig_url": "https://www.istegelsin.com/urun/sleepy-islak-havlu-zeytinyagipamuksu-lif-90li_ERS33-AD",
+            "mg_url": "https://www.migros.com.tr/sleepy-islak-havlu-zeytinyagi-pamuksu-lif-90li-p-1d983a5",
+            "cf_url": "https://www.carrefoursa.com/sleepy-zeytinyagli-islak-havlu-90-li-p-30278629"
+        },
+        {
+            "ÜRÜN ADI": "whiskas kedi maması 300gr",
+            "ig_url": "https://www.istegelsin.com/urun/whiskas-kuru-tavuklu-yavru-kedi-mamasi-300-gr_TMP10-AD",
+            "mg_url": "https://www.migros.com.tr/whiskas-yavru-tavuklu-kuru-mama-300-g-p-8a9c7d",
+            "cf_url": "https://www.carrefoursa.com/whiskas-junior-tavuklu-yavru-kuru-kedi-mamasi-300-gr-p-30070346"
+        },
+        {
+            "ÜRÜN ADI": "filiz irmik 500gr",
+            "ig_url": "https://www.istegelsin.com/urun/filiz-irmik-500-gr_BRL66-AD",
+            "mg_url": "https://www.migros.com.tr/filiz-irmik-500-g-p-4cec71",
+            "cf_url": "https://www.carrefoursa.com/filiz-irmik-500-g-p-30097416"
+        },
+        {
+            "ÜRÜN ADI": "sinangil glutensiz un 500gr",
+            "ig_url": "https://www.istegelsin.com/urun/sinangil-glutensiz-un-500-gr_SNN30-AD",
+            "mg_url": "https://www.migros.com.tr/sinangil-glutensiz-un-500-g-p-4c8c31",
+            "cf_url": "https://www.carrefoursa.com/sinangil-glutensiz-un-500-gr-p-30093532"
+        },
+        {
+            "ÜRÜN ADI": "asperox sarı güç 1lt sprey",
+            "ig_url": "https://www.istegelsin.com/urun/asperox-sari-guc-1-l-sprey_PRS21-AD",
+            "mg_url": "https://www.migros.com.tr/asperox-sari-guc-sprey-1-l-p-1d4f3c4",
+            "cf_url": "https://www.carrefoursa.com/asperox-sari-guc-1-lt-p-30285107"
+        },
+        {
+            "ÜRÜN ADI": "tat domates püresi 200gr",
+            "ig_url": "https://www.istegelsin.com/urun/tat-domates-puresi-200-gr_SMZ551-AD",
+            "mg_url": "https://www.migros.com.tr/tat-domates-puresi-200-g-p-898343",
+            "cf_url": "https://www.carrefoursa.com/tat-domates-puresi-200-gr-p-30068523"
+        },
+        {
+            "ÜRÜN ADI": "bref power aktif tuvalet bloğu",
+            "ig_url": "https://www.istegelsin.com/urun/bref-power-aktiv-klozet-blogu-cam-tekli_SMZ1724-AD",
+            "mg_url": "https://www.migros.com.tr/bref-power-aktif-cam-tekli-paket-p-1ddd58b",
+            "cf_url": "https://www.carrefoursa.com/bref-power-aktiv-kati-tuvalet-blogu-cam-tekli-p-30059465"
+        },
+        {
+            "ÜRÜN ADI": "erikli su 1.5lt",
+            "ig_url": "https://www.istegelsin.com/urun/erikli-15-l_ERK17-AD",
+            "mg_url": "https://www.migros.com.tr/erikli-dogal-kaynak-suyu-15l-pet-sise-p-7afc69",
+            "cf_url": "https://www.carrefoursa.com/erikli-su-1-5-lt-p-30057021"
+        },
+        {
+            "ÜRÜN ADI": "lipton çay 1kg",
+            "ig_url": "https://www.istegelsin.com/urun/lipton-yellow-label-dokme-cay-1-kg_UNG102-AD",
+            "mg_url": "https://www.migros.com.tr/lipton-yellow-label-dokme-cay-1000-g-p-2f79f2",
+            "cf_url": "https://www.carrefoursa.com/lipton-yellow-label-dokme-siyah-cay-1000-gr-p-30097414"
+        },
+        {
+            "ÜRÜN ADI": "knorr köfte harcı 82gr",
+            "ig_url": "https://www.istegelsin.com/urun/knorr-kofte-harci-82-gr_UNG38-AD",
+            "mg_url": "https://www.migros.com.tr/knorr-kofte-harci-82-g-p-5ca472",
+            "cf_url": "https://www.carrefoursa.com/knorr-kofte-harci-anne-koftesi-tadinda-nefis-lezzet-2-kullanimlik-82-g-p-30098733"
+        },
+        {
+            "ÜRÜN ADI": "billur sofra tuzu 750gr",
+            "ig_url": "https://www.istegelsin.com/urun/billur-tuz-rafine-iyotlu-sofra-tuzu-750-gr_BLR1-AD",
+            "mg_url": "https://www.migros.com.tr/billur-tuz-rafine-iyotlu-sofra-tuzu-750-g-p-5bdfee",
+            "cf_url": "https://www.carrefoursa.com/billur-iyotlu-sofra-tuzu-750-g-p-30094288"
+        },
+        {
+            "ÜRÜN ADI": "bağdat susam 75gr",
+            "ig_url": "https://www.istegelsin.com/urun/bagdat-susam-75-gr_BGD19-AD",
+            "mg_url": "https://www.migros.com.tr/bagdat-susam-75-g-p-5bb948",
+            "cf_url": "https://www.carrefoursa.com/bagdat-susam-75-gr-p-30065233"
+        },
+        {
+            "ÜRÜN ADI": "bağdat kimyon 75gr",
+            "ig_url": "https://www.istegelsin.com/urun/bagdat-kimyon-75-gr_BGD11-AD",
+            "mg_url": "https://www.migros.com.tr/bagdat-kimyon-75-g-p-5bb947",
+            "cf_url": "https://www.carrefoursa.com/bagdat-kimyon-75-gr-p-30065493"
+        },
+        {
+            "ÜRÜN ADI": "bağdat köri 70gr",
+            "ig_url": "https://www.istegelsin.com/urun/bagdat-kori-70-gr_BGD13-AD",
+            "mg_url": "https://www.migros.com.tr/bagdat-kori-70-g-p-5bb4bd",
+            "cf_url": "https://www.carrefoursa.com/bagdat-kori-70-g-p-30272109"
+        },
+        {
+            "ÜRÜN ADI": "tat ketçap 390gr",
+            "ig_url": "https://www.istegelsin.com/urun/tat-ketcap-390-gr-tatli_DZY8-AD",
+            "mg_url": "https://www.migros.com.tr/tat-ketcap-tatli-390-g-p-89b34f",
+            "cf_url": "https://www.carrefoursa.com/tat-ketcap-tatli-390-g-p-30329956"
+        },
+        {
+            "ÜRÜN ADI": "barilla pesto 190gr",
+            "ig_url": "https://www.istegelsin.com/urun/barilla-feslegenli-pesto-genovese-190-gr_BRL35-AD",
+            "mg_url": "https://www.migros.com.tr/barillia-feslegenli-pesto-pesto-genovese-makarna-sosu-190-g-p-fa8d31",
+            "cf_url": "https://www.carrefoursa.com/barilla-feslegenli-pesto-pesto-genovese-makarna-sosu-190-g-p-30097417"
+        },
+        {
+            "ÜRÜN ADI": "avokado adet",
+            "ig_url": "https://www.istegelsin.com/urun/avokado-adet_MS3-AD",
+            "mg_url": "https://www.migros.com.tr/avokado-adet-p-1ab6614",
+            "cf_url": "https://www.carrefoursa.com/avokado-ithal-adet-p-30281297"
+        },
+        {
+            "ÜRÜN ADI": "sivri biber 1kg",
+            "ig_url": "https://www.istegelsin.com/urun/sivri-biber-1-kg_MS103-AD",
+            "mg_url": "https://www.migros.com.tr/biber-sivri-kg-p-1ac11f0",
+            "cf_url": "https://www.carrefoursa.com/sivri-biber-kg-p-30013546"
+        },
+        {
+            "ÜRÜN ADI": "ülker kakao 50gr",
+            "ig_url": "https://www.istegelsin.com/urun/ulker-toz-kakao-50-gr_PAM628-AD",
+            "mg_url": "https://www.migros.com.tr/ulker-poset-toz-kakao-50-g-p-321076",
+            "cf_url": "https://www.carrefoursa.com/ulker-kakao-50-gr-p-30096802"
+        },
+        {
+            "ÜRÜN ADI": "dr.oetker maya 3x30gr",
+            "ig_url": "https://www.istegelsin.com/urun/dr-oetker-instant-maya-3lu-30-gr_DRO14-AD",
+            "mg_url": "https://www.migros.com.tr/droetker-instant-maya-30-g-p-4cebeb",
+            "cf_url": "https://www.carrefoursa.com/dr-oetker-instant-maya-3-parca-30-g-p-30099479"
+        },
+        {
+            "ÜRÜN ADI": "dr.oetker şekerli vanilin 15'li 75gr",
+            "ig_url": "https://www.istegelsin.com/urun/dr-oetker-sekerli-vanilin-15li-75-gr_DRO93-AD",
+            "mg_url": "https://www.migros.com.tr/droetker-sekerli-vanilin-15li-paket-75-g-p-5c7d6c",
+            "cf_url": "https://www.carrefoursa.com/dr-oetker-sekerli-vanilin-15-li-p-30090782"
+        },
+        {
+            "ÜRÜN ADI": "dr.oetker kabartma tozu 15'li 150gr",
+            "ig_url": "https://www.istegelsin.com/urun/dr-oetker-hamur-kabartma-tozu-15li-150-gr_DRO91-AD",
+            "mg_url": "https://www.migros.com.tr/droetker-hamur-kabartma-tozu-15li-paket-150-g-p-5c7d6b",
+            "cf_url": "https://www.carrefoursa.com/dr-oetker-hamur-kabartma-tozu-15-li-p-30090781"
+        },
+        {
+            "ÜRÜN ADI": "uno tost ekmeği 350gr",
+            "ig_url": "https://www.istegelsin.com/urun/uno-tost-ekmegi-350-gr_UNM25-AD",
+            "mg_url": "https://www.migros.com.tr/uno-tost-ekmegi-350-g-p-4d2a32",
+            "cf_url": "https://www.carrefoursa.com/uno-tost-ekmegi-350-g-p-30249853"
+        },
+        {
+            "ÜRÜN ADI": "uno kruvasan 240gr",
+            "ig_url": "https://www.istegelsin.com/urun/uno-cikolata-kremali-kruvasan-240-gr_UNM108-AD",
+            "mg_url": "https://www.migros.com.tr/uno-cikolata-kremali-kruvasan-8li-240-g-p-4d1e62",
+            "cf_url": "https://www.carrefoursa.com/uno-cikolatali-kremali-kruvasan-240-g-p-30391450"
+        },
+        {
+            "ÜRÜN ADI": "uno pastaban 320gr",
+            "ig_url": "https://www.istegelsin.com/urun/uno-pastaban-kakao-3-kat-320-gr_UNM111-AD",
+            "mg_url": "https://www.migros.com.tr/uno-3-kat-pastaban-kakaolu-320-g-p-4d32dd",
+            "cf_url": "https://www.carrefoursa.com/uno-pastaban-kakaolu-3-kat-320-g-p-30398084"
+        },
+        {
+            "ÜRÜN ADI": "nivea men deodorant 150ml",
+            "ig_url": "https://www.istegelsin.com/urun/nivea-men-dry-fresh-deodorant-sprey-150ml_SMZ1446-AD",
+            "mg_url": "https://www.migros.com.tr/nivea-men-erkek-sprey-deodorant-dry-fresh-150-ml-p-216a3a3",
+            "cf_url": "https://www.carrefoursa.com/nivea-dry-fresh-erkek-sprey-deodorant-150-ml-p-30217762"
+        }
+]
